@@ -1,0 +1,3 @@
+Przykładowy tekst
+qwertryj
+dfghjkl
